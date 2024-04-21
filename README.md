@@ -35,10 +35,8 @@ This is a simple quiz application built with Node.js and Express.js that tests u
 - The quiz questions are stored in the questions.json file. You can modify or add more questions there.
 - Error handling for invalid requests or unexpected errors is implemented in the server code.
 - This project uses a simple HTML interface for user interaction, without any front-end frameworks.
-## Screenshots
 
-![image](https://github.com/ankkitsharma/Nodejs-Quiz-Application/assets/78787267/ee9fdf2e-f9a2-4217-b186-8a6102f45097)
-![image](https://github.com/ankkitsharma/Nodejs-Quiz-Application/assets/78787267/da8dfc45-48d2-497c-bc8c-fb48ba143a15)
+
 
 
 
